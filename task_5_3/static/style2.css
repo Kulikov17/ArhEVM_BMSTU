@@ -1,0 +1,22 @@
+body {
+    margin-left: 50%;
+    background: pink;
+}
+
+p {
+    font-family: Cambria;
+    font-weight: lighter;
+    color: gray
+}
+
+h1 {
+    font-family: Cochin;
+    font-weight: bold;
+    color:firebrick;
+}
+
+.btn-class {
+    background: chartreuse;
+    color: blueviolet;
+    cursor: pointer;
+}

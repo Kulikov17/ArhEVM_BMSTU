@@ -1,0 +1,23 @@
+body {
+    padding: 30px;
+    background: tomato;
+}
+
+p {
+    font-family: Courier New;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: Arial;
+    font-weight: bold;
+    color: white;
+}
+
+.btn-class {
+    padding: 6px;
+    background: orange;
+    color: white;
+    cursor: default;
+    display: inline-block;
+}
